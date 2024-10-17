@@ -7,3 +7,5 @@ Step you need to follow
    Note: [ If you face any permission issue for making laravel project just first of all check the user you have write (whoami) comamnd for currnt user and if you see liek a name of you example: sohel or root or ubuntu just write the name on php.dockerfile on 
    ARG USER=name ]
 after that you can create the project again.
+
+*if your name is like learn hunter by separationa  space just write the second name only*
